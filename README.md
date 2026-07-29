@@ -1,4 +1,23 @@
 Учетные записи: 
-<br>Логин: admin, пароль: admin123, роль: admin 
-<br>Логин: technician, пароль: tech123, роль: technician
-<br>Логин: buch, пароль: buch123, роль: technician       
+<table>
+  <tr>
+    <th>Логин</th>
+    <th>Пароль</th>
+    <th>Роль</th>
+  </tr>
+  <tr>
+    <td>admin</td>
+    <td>admin123</td>
+    <td>admin</td>
+  </tr>
+  <tr>
+   <td>technician</td>
+   <td>tech123</td>
+   <td>technician</td> 
+  </tr>
+  <tr>
+   <td>buch</td>
+   <td>buch123</td>
+   <td>technician</td>     
+  </tr>
+</table>
